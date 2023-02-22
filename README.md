@@ -10,11 +10,13 @@
 
 	:white_check_mark: Git/GitHub	 
 	
-	:white_check_mark: Bootstrap
+	:white_check_mark: Bootstrap/Tailwind
 	
-	⬜ Node.js
+	:white_check_mark: Node.js
 	
-	⬜ React.js
+	:white_check_mark: React.js
+	
+	:white_check_mark: ExpressJs
 	
 - 👓 I'm studying "Business-Informatics" at Moscow Witte University
 - 🖥 I've finished LinkedIn's Learning Paths "Become a Web Developer" and "Become a Front-End Web Developer"
@@ -30,10 +32,12 @@
 	
 	⭐ E-mail: Nita@ya.ru
 	
-	⭐ My website: 
+	⭐ My website: [:white_check_mark:](https://nitalewska.github.io/portfolio/)
   
 - ▶ You can also check my projects/profiles here:
 
 	⭐ https://www.frontendmentor.io/profile/NitaLewska
 	
 	⭐https://www.codewars.com/users/NitaLewska
+
+	⭐https://kwork.ru/user/nitalewska
