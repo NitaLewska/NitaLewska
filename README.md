@@ -32,7 +32,7 @@
 	
 	⭐ E-mail: Nita@ya.ru
 	
-	⭐ My website: [:white_check_mark:](https://nitalewska.github.io/portfolio/)
+	⭐ My website: https://www.nitalewska.pro
   
 - ▶ You can also check my projects/profiles here:
 
