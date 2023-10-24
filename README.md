@@ -19,12 +19,12 @@
 	:white_check_mark: ExpressJs
 	
 - 👓 I'm studying "Business-Informatics" at Moscow Witte University
-- 🖥 I've finished LinkedIn's Learning Paths "Become a Web Developer" and "Become a Front-End Web Developer"
-- 🖥 I've finished FreeCodeCamp's Responsive Web Development Certification and JavaScript Algorithms and Data Structures Certification
+- 🖥 I've completed LinkedIn's Learning Paths "Become a Web Developer" and "Become a Front-End Web Developer"
+- 🖥 I've completed FreeCodeCamp's Responsive Web Development Certification and JavaScript Algorithms and Data Structures Certification
 	(https://www.freecodecamp.org/certification/nita_lewska/responsive-web-design)
 	(https://www.freecodecamp.org/certification/nita_lewska/javascript-algorithms-and-data-structures)
-- 📗 I'm also going through Colt Steele's Web Developer Bootcamp Course on Udemy
-- and use many-many more resources to study and develop my skills
+- 📗 I've completed Colt Steele's Web Developer Bootcamp Course on Udemy
+- and I use many-many more resources to study and develop my skills
 	
 - 📫 How to reach me:
 
